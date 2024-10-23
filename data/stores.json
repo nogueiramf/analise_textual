@@ -1,0 +1,27 @@
+{
+    "Temu": {
+        "titulo": "Temu: Compre como um bilionário",
+        "descrição": "Compre na Temu e receba ofertas exclusivas. Não importa o que você esteja procurando, a Temu tem o que você precisa, incluindo moda, decoração para casa, artesanato, beleza e cosméticos, roupas, sapatos e muito mais. Baixe o app da Temu hoje mesmo e aproveite ofertas incríveis diariamente.",
+        "store": "google"
+    },
+    "Shopee": {
+        "titulo": "Shopee: 11.11 A Maior Liquida",
+        "descrição": "No 11.11 A Maior Liquida você economiza nas suas compras online com os melhores preços do ano! Quer promoção de verdade? Olha na Shopee! De 28 de outubro a 12 de novembro, você poderá aproveitar as diversas ofertas e vantagens na Shopee, como R$ 11 milhões em cupons e frete grátis* (*Confira as condições de frete grátis e o valor mínimo de compra no aplicativo).",
+        "store": "google"
+    },
+    "AliExpress": {
+        "titulo": "AliExpress: Compras online",
+        "descrição": "Venha para o AliExpress: Seu Aplicativo de Compra Favorito! Procurando um produto e não encontra em lugar nenhum? Com o aplicativo de compras internacionais da AliExpress, você tem um mundo de opções e vantagens nas suas mãos! Baixe agora mesmo e descubra o melhor das lojas on-line em um só lugar. Ofertas imperdíveis para economizar!",
+        "store": "google"
+    },
+    "Mercado Livre": {
+        "titulo": "Mercado Livre",
+        "descrição": "Agora baixe o aplicativo Mercado Livre e na sua primeira compra no app você pode aproveitar frete grátis e ofertas exclusivas no Mercado Livre! Encontre preços imperdíveis em categorias como eletrodomésticos, móveis, decoração, esportes, eletrônicos, smartphones, e muito mais.",
+        "store": "google"
+    },
+    "Amazon Shopping": {
+        "titulo": "Amazon Shopping",
+        "descrição": "Busque produtos, compare preços, leia avaliações e compre onde e quando quiser com o app da Amazon. Frete GRÁTIS para membros Prime. Assine o Amazon Prime e aproveite frete GRÁTIS sem valor mínimo de compra em produtos com o selo Prime. Com a sua assinatura Prime, você tem frete GRÁTIS rápido, ilimitado e para todo o Brasil. Procure pelo selo Prime nos produtos para aproveitar esse benefício.",
+        "store": "google"
+    }
+}
