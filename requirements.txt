@@ -1,4 +1,6 @@
 rake-nltk
 openai
-dotenv
+python-dotenv
 nltk
+pymongo
+pandas
