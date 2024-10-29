@@ -5,7 +5,7 @@ Análise do App: Temu
 
 ### Análise do Título:
 - Caracteres: 31
-- Palavras-chave: compre, bilionário, temu
+- Palavras-chave: compre, temu, bilionário
 
 ### Análise da Descrição:
 - Caracteres: 290
@@ -59,7 +59,7 @@ Análise do App: AliExpress
 
 ### Análise do Título:
 - Caracteres: 26
-- Palavras-chave: aliexpress, compras, online
+- Palavras-chave: compras, aliexpress, online
 
 ### Análise da Descrição:
 - Caracteres: 335
