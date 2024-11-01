@@ -1,0 +1,596 @@
+{
+    "com.itau": {
+        "content": [
+            {
+                "_id": "1c35d4e5-e284-50de-a4b5-776720799d69",
+                "changes": [
+                    {
+                        "_id": "671aaaba9167789729479765",
+                        "date": "2024-10-24T20:14:49.948Z",
+                        "field": "version",
+                        "previousValue": "7.082.5",
+                        "currentValue": "7.083.2"
+                    },
+                    {
+                        "_id": "67143d6a91677897299b910f",
+                        "date": "2024-10-19T23:14:49.842Z",
+                        "field": "version",
+                        "previousValue": "7.081.3",
+                        "currentValue": "7.082.5"
+                    },
+                    {
+                        "_id": "6705bcecf8d712010b45055b",
+                        "date": "2024-10-08T23:14:52.260Z",
+                        "field": "version",
+                        "previousValue": "7.080.4",
+                        "currentValue": "7.081.3"
+                    }
+                ]
+            },
+            {
+                "_id": "c6bf8783-f778-5940-8e41-5994bfd2fae2",
+                "changes": [
+                    {
+                        "_id": "671aaaa69167789729478f16",
+                        "date": "2024-10-24T20:14:30.061Z",
+                        "field": "version",
+                        "previousValue": "7.082.5",
+                        "currentValue": "7.083.2"
+                    },
+                    {
+                        "_id": "67143d5691677897299b89a6",
+                        "date": "2024-10-19T23:14:30.180Z",
+                        "field": "version",
+                        "previousValue": "7.081.3",
+                        "currentValue": "7.082.5"
+                    },
+                    {
+                        "_id": "6705bcd7f8d712010b44f820",
+                        "date": "2024-10-08T23:14:30.956Z",
+                        "field": "version",
+                        "previousValue": "7.080.4",
+                        "currentValue": "7.081.3"
+                    }
+                ]
+            },
+            {
+                "_id": "46c153d8-99c1-55a7-bb02-0c5914a0428c",
+                "changes": [
+                    {
+                        "_id": "671cf86c91677897292eee95",
+                        "date": "2024-10-26T14:10:52.188Z",
+                        "field": "icon",
+                        "previousValue": "play-lh.googleusercontent.com/CyP_f9VxfdTyixcWO_-2IW5cJ1M8adkqRrY9Wo_CkH0Ixj12qdg1SJHpuye-9n_YYqM",
+                        "currentValue": "play-lh.googleusercontent.com/gRcutACE4XkEHmxcbUdOehxpTbp_LjmwJ6qIEbqfD34oh9feTNhTnlDgf97HEZ9eGKY"
+                    },
+                    {
+                        "_id": "671cf86c91677897292eee92",
+                        "date": "2024-10-26T14:10:52.182Z",
+                        "field": "title",
+                        "previousValue": "Banco Itaú: abrir conta online",
+                        "currentValue": "Banco Itaú: Conta, Cartão e +"
+                    }
+                ]
+            }
+        ],
+        "metadata": {
+            "creditsConsumed": 0,
+            "datePerformed": "2024-11-01T17:52:33.289Z",
+            "headers": {
+                "connection": "keep-alive",
+                "cf-ray": "8dbdbd27ae64013b-GRU",
+                "user-agent": "Python/3.12 aiohttp/3.10.10",
+                "accept-encoding": "gzip, br",
+                "cf-ipcountry": "BR",
+                "cdn-loop": "cloudflare; loops=1",
+                "accept": "*/*",
+                "cf-visitor": "{\"scheme\":\"https\"}",
+                "cf-connecting-ip": "186.236.101.231"
+            },
+            "params": {
+                "appId": "com.itau",
+                "store": "google"
+            },
+            "query": {
+                "store": "google",
+                "startDate": "2024-10-01",
+                "endDate": "2024-10-31"
+            },
+            "path": "/v1/apps/com.itau/google/changes-log",
+            "method": "GET",
+            "requisitionId": "7aa38a56-1cb8-4fe2-a1e2-59ff72664b65",
+            "responseTime": 3439.419124
+        }
+    },
+    "com.bradesco": {
+        "content": [
+            {
+                "_id": "14411feb-8bb8-5239-840c-07dc891e7fae",
+                "changes": [
+                    {
+                        "_id": "671c27b79167789729e723e0",
+                        "date": "2024-10-25T23:20:23.111Z",
+                        "field": "androidVersionText",
+                        "previousValue": "7.0",
+                        "currentValue": "8.0"
+                    },
+                    {
+                        "_id": "671c27b79167789729e723db",
+                        "date": "2024-10-25T23:20:22.971Z",
+                        "field": "version",
+                        "previousValue": "4.58.0",
+                        "currentValue": "4.59.0"
+                    }
+                ]
+            }
+        ],
+        "metadata": {
+            "creditsConsumed": 0,
+            "datePerformed": "2024-11-01T17:52:32.469Z",
+            "headers": {
+                "connection": "keep-alive",
+                "cf-ray": "8dbdbd2e2b67e0e7-GIG",
+                "user-agent": "Python/3.12 aiohttp/3.10.10",
+                "accept-encoding": "gzip, br",
+                "cf-ipcountry": "BR",
+                "cdn-loop": "cloudflare; loops=1",
+                "accept": "*/*",
+                "cf-visitor": "{\"scheme\":\"https\"}",
+                "cf-connecting-ip": "186.236.101.231"
+            },
+            "params": {
+                "appId": "com.bradesco",
+                "store": "google"
+            },
+            "query": {
+                "store": "google",
+                "startDate": "2024-10-01",
+                "endDate": "2024-10-31"
+            },
+            "path": "/v1/apps/com.bradesco/google/changes-log",
+            "method": "GET",
+            "requisitionId": "e75d6c75-53d9-45b3-80f6-2b6c43943f6a",
+            "responseTime": 1614.016301
+        }
+    },
+    "com.nu.production": {
+        "content": [
+            {
+                "_id": "873e0f1c-6498-5b54-9205-f39e4cb371b3",
+                "changes": [
+                    {
+                        "_id": "6723e91b916778972915aed1",
+                        "date": "2024-10-31T20:31:23.369Z",
+                        "field": "recentChanges",
+                        "previousValue": "Corregir errores parece algo genérico, pero cada una de esas correcciones representa un esfuerzo para mejorar tu experiencia. Eso hicimos esta semana, mejorar tu experiencia.<br><br>Si estás en Colombia, inscríbete a la lista de espera. Puedes hacerlo en nu.com.co. ¡Muchas personas ya tienen su tarjeta!<br><br>Escríbenos cualquier duda o comentario desde México a ayuda@nu.com.mx o desde Colombia a ayuda@nu.com.co.<br>",
+                        "currentValue": "Esta semana trabajamos en nuevas mejoras en la app para que nuestros millones de clientes tengan control de sus finanzas<br><br>Recuerda que puedes solicitar tarjeta de crédito y Cuenta Nu desde tu celular, sin hacer filas en una sucursal. Hazlo en nu.com.co para Colombia y en nu.com.mx para México.<br><br>Escríbenos cualquier duda o comentario desde México a ayuda@nu.com.mx o desde Colombia a ayuda@nu.com.co."
+                    },
+                    {
+                        "_id": "671aab47916778972947d196",
+                        "date": "2024-10-24T20:17:11.004Z",
+                        "field": "recentChanges",
+                        "previousValue": "Esta semana corregimos errores en la app porque nuestro propósito es que tengas la mejor experiencia con tus finanzas. Además, nuestra atención es 24/7 para ayudarte cuando lo necesites. <br><br>Recuerda que puedes solicitar tarjeta de crédito y Cuenta Nu desde tu celular, sin hacer filas en una sucursal. Hazlo en nu.com.co para Colombia y en nu.com.mx para México.<br><br>Escríbenos cualquier duda o comentario desde México a ayuda@nu.com.mx o desde Colombia a ayuda@nu.com.co.",
+                        "currentValue": "Corregir errores parece algo genérico, pero cada una de esas correcciones representa un esfuerzo para mejorar tu experiencia. Eso hicimos esta semana, mejorar tu experiencia.<br><br>Si estás en Colombia, inscríbete a la lista de espera. Puedes hacerlo en nu.com.co. ¡Muchas personas ya tienen su tarjeta!<br><br>Escríbenos cualquier duda o comentario desde México a ayuda@nu.com.mx o desde Colombia a ayuda@nu.com.co.<br>"
+                    },
+                    {
+                        "_id": "671049a1f8d712010b7cfeca",
+                        "date": "2024-10-16T23:17:53.724Z",
+                        "field": "recentChanges",
+                        "previousValue": "Esta semana corregimos errores en la app para que tu experiencia se sienta tan bien como que te inviten a comer en tu restaurante favorito. <br><br>Recuerda que puedes solicitar tarjeta de crédito y Cuenta Nu desde tu celular, sin hacer filas en una sucursal. Hazlo en nu.com.co para Colombia y en nu.com.mx para México.<br><br>Escríbenos cualquier duda o comentario desde México a ayuda@nu.com.mx o desde Colombia a ayuda@nu.com.co.",
+                        "currentValue": "Esta semana corregimos errores en la app porque nuestro propósito es que tengas la mejor experiencia con tus finanzas. Además, nuestra atención es 24/7 para ayudarte cuando lo necesites. <br><br>Recuerda que puedes solicitar tarjeta de crédito y Cuenta Nu desde tu celular, sin hacer filas en una sucursal. Hazlo en nu.com.co para Colombia y en nu.com.mx para México.<br><br>Escríbenos cualquier duda o comentario desde México a ayuda@nu.com.mx o desde Colombia a ayuda@nu.com.co."
+                    },
+                    {
+                        "_id": "67086068f8d712010b57e3fb",
+                        "date": "2024-10-10T23:16:56.791Z",
+                        "field": "screenshots",
+                        "previousValue": [
+                            "https://play-lh.googleusercontent.com/ufJf9XgdY9uT-K_cYnIp-6zp34MrNENlrybBis3waLhuV0EPjCfLy77rjP8IOedIReE",
+                            "https://play-lh.googleusercontent.com/Sm-T2_sXVcuyOb8mhhBWyBxKDRFNWEU5Tatt-qD_xJPyGOWyxMkQ9wmcA8Djds3NipU",
+                            "https://play-lh.googleusercontent.com/De-FumBuJHeWHwDEwa_7GR3aML7aCfwyFuK4bpV7PEynLZvhfFG7OVwTMAZbnoKEXYV3",
+                            "https://play-lh.googleusercontent.com/PlthQVrVtnWS5jPjvqFDx0qULXmxeb6DjJB0DDkETDx3YAbKAVUTuYAhhnzB3krmlns",
+                            "https://play-lh.googleusercontent.com/Kq8VEHjKUrrVdZ1E9GlryEyZzK-A1zVnyp1A1kH8D76PliTFxcthD7lqYd33wEfUEx8",
+                            "https://play-lh.googleusercontent.com/r-8YLRJ2A7su-xzQSHzlKw4Std5Id0fly_4lLjKZYvVies8GtBff2-_s1RaRG_z7jj7j",
+                            "https://play-lh.googleusercontent.com/76nMB36PGWW4yMM2lUTBFrtM-W8FUEs7vRNKlZRY-y48vvZIfcN0-GP7Tlia26vxkYdN",
+                            "https://play-lh.googleusercontent.com/BEl6yLp6HTnj_VtbI4WBKK9LTaflHJdwur7HaK0FK5KihCgKWNMm8T9wKhl5F9i6k-Y"
+                        ],
+                        "currentValue": [
+                            "https://play-lh.googleusercontent.com/ufJf9XgdY9uT-K_cYnIp-6zp34MrNENlrybBis3waLhuV0EPjCfLy77rjP8IOedIReE",
+                            "https://play-lh.googleusercontent.com/Sm-T2_sXVcuyOb8mhhBWyBxKDRFNWEU5Tatt-qD_xJPyGOWyxMkQ9wmcA8Djds3NipU",
+                            "https://play-lh.googleusercontent.com/PlthQVrVtnWS5jPjvqFDx0qULXmxeb6DjJB0DDkETDx3YAbKAVUTuYAhhnzB3krmlns",
+                            "https://play-lh.googleusercontent.com/Kq8VEHjKUrrVdZ1E9GlryEyZzK-A1zVnyp1A1kH8D76PliTFxcthD7lqYd33wEfUEx8",
+                            "https://play-lh.googleusercontent.com/r-8YLRJ2A7su-xzQSHzlKw4Std5Id0fly_4lLjKZYvVies8GtBff2-_s1RaRG_z7jj7j",
+                            "https://play-lh.googleusercontent.com/76nMB36PGWW4yMM2lUTBFrtM-W8FUEs7vRNKlZRY-y48vvZIfcN0-GP7Tlia26vxkYdN",
+                            "https://play-lh.googleusercontent.com/BEl6yLp6HTnj_VtbI4WBKK9LTaflHJdwur7HaK0FK5KihCgKWNMm8T9wKhl5F9i6k-Y"
+                        ]
+                    },
+                    {
+                        "_id": "67086068f8d712010b57e3f4",
+                        "date": "2024-10-10T23:16:56.786Z",
+                        "field": "descriptionHTML",
+                        "previousValue": "Con la app de Nu podrás manejar tu Tarjeta de Crédito Nu, que tiene $0 cuota de manejo, ni costos por emisión para que siempre tengas el control de tu dinero. Podrás bloquearla o desbloquearla cuando quieras de manera rápida y segura, revisar tus extractos en tiempo real, ajustar tu límite de crédito, cambiar el número de cuotas de tus compras y mucho más.<br><br>Además, la Cuenta de ahorros Nu pronto estará disponible para todos los colombianos. Puedes registrarte en la lista de lanzamiento para que pronto veas tu dinero crecer todos los días.<br><br>Descarga la app y únete a las más de medio millón de personas en Colombia que han le han dicho adiós a la burocracia, los asteriscos y el papeleo interminable.<br><br>La Tarjeta de crédito Nu es un producto ofrecido por Nu Colombia S.A., nosotros le decimos &quot;Nu S.A.&quot;,y es vigilada por la Superintendencia de Industria y Comercio. NIT: 9012841298.<br><br>La Cuenta de ahorros Nu es un producto ofrecido por Nu. Colombia Compañía de Financiamiento S.A. NIT: 901658107-2, nosotros le decimos “Nu C.F.”  <br><br>Beneficios de la tarjeta de crédito Nu: <br>- $0 cuota de manejo, sin condiciones.<br>- 0% interés en compras que hayas hecho a una cuota.<br>- Has avances en efectivo en cualquier cajero electrónico de la red Mastercard.<br>- $0 costo por el uso de los beneficios Mastercard Gold.<br>- Sin letras pequeñas, ni cobros ocultos.<br>- Agrega tu tarjeta a la billetera de Google para pagar sin contacto de forma rápida y segura con tu celular.<br>La Tarjeta de crédito Nu es un producto ofrecido por Nu Colombia S.A., nosotros le decimos &quot;Nu S.A.&quot;,y es vigilada por la Superintendencia de Industria y Comercio. NIT: 9012841298.<br><br>Más beneficios de Cuenta Nu: <br>Tu dinero crecerá todos los días en la Cajita de ahorro.<br>Disponibilidad de tu dinero 24/7. <br>Tarjeta débito para que puedas pagar en cualquier datáfono, por internet o retirar dinero en cajeros automáticos.<br><br>La Cuenta de ahorros Nu es un producto ofrecido por Nu. Colombia Compañía de Financiamiento S.A. NIT: 901658107-2, nosotros le decimos “Nu C.F.”  <br><br>Con la app Nu podrás: <br>- Acceder a la app de manera segura con reconocimiento facial, touch ID o contraseña. <br>- Contactarnos cuando lo necesites, 24/7 y con atención personalizada por chat en la app, por teléfono o por mail.<br>- Recibir notificaciones al instante por cada compra.<br>- Revisar tus extractos en tiempo real.<br>- Ajustar el límite de tu tarjeta de crédito para que siempre tengas el control de tu dinero.<br>- Bloquear y desbloquear tus tarjetas cuando tú quieras, para mayor seguridad. <br>- Elegir la fecha de pago que más se acomode a ti.<br>- Invitar a quien quieras a ser parte de Nu. Tendrán más posibilidades de que aprobemos su tarjeta de crédito Nu.<br>- Etiquetar tus compras para que puedas encontrarlas fácil y rápido.<br>- Pagar tu tarjeta con PSE o en efectivo en todo el país.",
+                        "currentValue": "Simple, humana y transparente. Así es la vida financiera con Nu. Con nuestros productos de crédito y ahorro, queremos devolverte el control de tu tiempo y dinero para que los uses en lo que más amas y te hace feliz.<br><br>Descarga la app y únete a las más de 105 millones de personas que han le han dicho adiós a la burocracia, los asteriscos, el papeleo y la letra chica uniéndose al futuro de los servicios financieros.<br><br>Tener el control con Nu es: <br>-Vivir sin sucursales manejando tus finanzas desde tu celular.<br>-Contar con atención 24/7 a través del chat en la app, teléfono o por email. Sin restricción de horarios.<br>-Notificaciones en tiempo real de tus movimientos, compras o transferencias.<br>-Estados de cuenta simples que te permiten ver reflejados tus movimientos en instantes.<br>-Sin letras pequeñas, ni cobros ocultos.<br>-Con tu tarjeta de crédito o débito Mastercard puedes pagar en cualquier parte del mundo.<br>-Puedes bloquear y desbloquear tus tarjetas cuantas veces quieras desde tu app.<br>-Crea múltiples tarjetas digitales de crédito o débito para hacer pagos digitales y compras en líneas seguras.<br>-Usamos tecnología para detectar y frenar compras sospechosas.<br>-Transacciones seguras: cuentas con reconocimiento facial, dactilar o contraseña para ingresar a tu app.<br>-Facilidad al agregar tus tarjetas Nu a la Billetera de Google o Apple Pay para pagar sin contacto, de forma rápida y segura.<br><br>Tarjeta de crédito Nu:<br>-Con un uso frecuente y pagos puntuales creas un buen historial crediticio.<br>-Opción de cambiar la cuota de tus compras a tu conveniencia.<br>-0% interés en compras que hayas hecho a una cuota.<br>-Avances en efectivo en cualquier cajero electrónico de la red Mastercard, puedes conocer más en nuestra página web.<br>-Todos los beneficios de una Mastercard Gold.<br>-Elegir tu fecha de pago y límite de crédito para organizar y controlar tus finanzas.<br><br>La tarjeta de crédito es ofrecida por Nu. Colombia Compañía de Financiamiento S.A. NIT: 901658107-2, nosotros le decimos “Nu C.F.”, somos una entidad vigilada por la Superintendencia Financiera de Colombia.<br><br>Cuenta de Ahorros Nu: <br>-$0 cuota de manejo<br>-Tu dinero crece todos los días.<br>-$0 costo por transferencias entre bancos.<br>-Disponibilidad de tu dinero 24/7. Sin condiciones.<br>-Tarjeta débito para que puedas pagar en cualquier datáfono, por internet o retirar dinero en cajeros automáticos.<br><br>La Cuenta de ahorros Nu es un producto ofrecido por Nu. Colombia Compañía de Financiamiento S.A. NIT: 901658107-2, nosotros le decimos “Nu C.F.”, vigilada por la Superintendencia Financiera de Colombia."
+                    },
+                    {
+                        "_id": "67086068f8d712010b57e3ed",
+                        "date": "2024-10-10T23:16:56.637Z",
+                        "field": "description",
+                        "previousValue": "Con la app de Nu podrás manejar tu Tarjeta de Crédito Nu, que tiene $0 cuota de manejo, ni costos por emisión para que siempre tengas el control de tu dinero. Podrás bloquearla o desbloquearla cuando quieras de manera rápida y segura, revisar tus extractos en tiempo real, ajustar tu límite de crédito, cambiar el número de cuotas de tus compras y mucho más.\n\nAdemás, la Cuenta de ahorros Nu pronto estará disponible para todos los colombianos. Puedes registrarte en la lista de lanzamiento para que pronto veas tu dinero crecer todos los días.\n\nDescarga la app y únete a las más de medio millón de personas en Colombia que han le han dicho adiós a la burocracia, los asteriscos y el papeleo interminable.\n\nLa Tarjeta de crédito Nu es un producto ofrecido por Nu Colombia S.A., nosotros le decimos \"Nu S.A.\",y es vigilada por la Superintendencia de Industria y Comercio. NIT: 9012841298.\n\nLa Cuenta de ahorros Nu es un producto ofrecido por Nu. Colombia Compañía de Financiamiento S.A. NIT: 901658107-2, nosotros le decimos “Nu C.F.”  \n\nBeneficios de la tarjeta de crédito Nu: \n- $0 cuota de manejo, sin condiciones.\n- 0% interés en compras que hayas hecho a una cuota.\n- Has avances en efectivo en cualquier cajero electrónico de la red Mastercard.\n- $0 costo por el uso de los beneficios Mastercard Gold.\n- Sin letras pequeñas, ni cobros ocultos.\n- Agrega tu tarjeta a la billetera de Google para pagar sin contacto de forma rápida y segura con tu celular.\nLa Tarjeta de crédito Nu es un producto ofrecido por Nu Colombia S.A., nosotros le decimos \"Nu S.A.\",y es vigilada por la Superintendencia de Industria y Comercio. NIT: 9012841298.\n\nMás beneficios de Cuenta Nu: \nTu dinero crecerá todos los días en la Cajita de ahorro.\nDisponibilidad de tu dinero 24/7. \nTarjeta débito para que puedas pagar en cualquier datáfono, por internet o retirar dinero en cajeros automáticos.\n\nLa Cuenta de ahorros Nu es un producto ofrecido por Nu. Colombia Compañía de Financiamiento S.A. NIT: 901658107-2, nosotros le decimos “Nu C.F.”  \n\nCon la app Nu podrás: \n- Acceder a la app de manera segura con reconocimiento facial, touch ID o contraseña. \n- Contactarnos cuando lo necesites, 24/7 y con atención personalizada por chat en la app, por teléfono o por mail.\n- Recibir notificaciones al instante por cada compra.\n- Revisar tus extractos en tiempo real.\n- Ajustar el límite de tu tarjeta de crédito para que siempre tengas el control de tu dinero.\n- Bloquear y desbloquear tus tarjetas cuando tú quieras, para mayor seguridad. \n- Elegir la fecha de pago que más se acomode a ti.\n- Invitar a quien quieras a ser parte de Nu. Tendrán más posibilidades de que aprobemos su tarjeta de crédito Nu.\n- Etiquetar tus compras para que puedas encontrarlas fácil y rápido.\n- Pagar tu tarjeta con PSE o en efectivo en todo el país.",
+                        "currentValue": "Simple, humana y transparente. Así es la vida financiera con Nu. Con nuestros productos de crédito y ahorro, queremos devolverte el control de tu tiempo y dinero para que los uses en lo que más amas y te hace feliz.\n\nDescarga la app y únete a las más de 105 millones de personas que han le han dicho adiós a la burocracia, los asteriscos, el papeleo y la letra chica uniéndose al futuro de los servicios financieros.\n\nTener el control con Nu es: \n-Vivir sin sucursales manejando tus finanzas desde tu celular.\n-Contar con atención 24/7 a través del chat en la app, teléfono o por email. Sin restricción de horarios.\n-Notificaciones en tiempo real de tus movimientos, compras o transferencias.\n-Estados de cuenta simples que te permiten ver reflejados tus movimientos en instantes.\n-Sin letras pequeñas, ni cobros ocultos.\n-Con tu tarjeta de crédito o débito Mastercard puedes pagar en cualquier parte del mundo.\n-Puedes bloquear y desbloquear tus tarjetas cuantas veces quieras desde tu app.\n-Crea múltiples tarjetas digitales de crédito o débito para hacer pagos digitales y compras en líneas seguras.\n-Usamos tecnología para detectar y frenar compras sospechosas.\n-Transacciones seguras: cuentas con reconocimiento facial, dactilar o contraseña para ingresar a tu app.\n-Facilidad al agregar tus tarjetas Nu a la Billetera de Google o Apple Pay para pagar sin contacto, de forma rápida y segura.\n\nTarjeta de crédito Nu:\n-Con un uso frecuente y pagos puntuales creas un buen historial crediticio.\n-Opción de cambiar la cuota de tus compras a tu conveniencia.\n-0% interés en compras que hayas hecho a una cuota.\n-Avances en efectivo en cualquier cajero electrónico de la red Mastercard, puedes conocer más en nuestra página web.\n-Todos los beneficios de una Mastercard Gold.\n-Elegir tu fecha de pago y límite de crédito para organizar y controlar tus finanzas.\n\nLa tarjeta de crédito es ofrecida por Nu. Colombia Compañía de Financiamiento S.A. NIT: 901658107-2, nosotros le decimos “Nu C.F.”, somos una entidad vigilada por la Superintendencia Financiera de Colombia.\n\nCuenta de Ahorros Nu: \n-$0 cuota de manejo\n-Tu dinero crece todos los días.\n-$0 costo por transferencias entre bancos.\n-Disponibilidad de tu dinero 24/7. Sin condiciones.\n-Tarjeta débito para que puedas pagar en cualquier datáfono, por internet o retirar dinero en cajeros automáticos.\n\nLa Cuenta de ahorros Nu es un producto ofrecido por Nu. Colombia Compañía de Financiamiento S.A. NIT: 901658107-2, nosotros le decimos “Nu C.F.”, vigilada por la Superintendencia Financiera de Colombia."
+                    },
+                    {
+                        "_id": "67083645f8d712010b470d45",
+                        "date": "2024-10-10T20:17:09.079Z",
+                        "field": "recentChanges",
+                        "previousValue": "Corregir errores parece algo genérico, pero cada una de esas correcciones representa un esfuerzo para mejorar tu experiencia. Eso hicimos esta semana, mejorar tu experiencia.<br><br>Si estás en Colombia, inscríbete a la lista de espera. Puedes hacerlo en nu.com.co. ¡Muchas personas ya tienen su tarjeta!<br><br>Escríbenos cualquier duda o comentario desde México a ayuda@nu.com.mx o desde Colombia a ayuda@nu.com.co.<br>",
+                        "currentValue": "Esta semana corregimos errores en la app para que tu experiencia se sienta tan bien como que te inviten a comer en tu restaurante favorito. <br><br>Recuerda que puedes solicitar tarjeta de crédito y Cuenta Nu desde tu celular, sin hacer filas en una sucursal. Hazlo en nu.com.co para Colombia y en nu.com.mx para México.<br><br>Escríbenos cualquier duda o comentario desde México a ayuda@nu.com.mx o desde Colombia a ayuda@nu.com.co."
+                    },
+                    {
+                        "_id": "66fefbbcf8d712010b97f61e",
+                        "date": "2024-10-03T20:17:00.279Z",
+                        "field": "recentChanges",
+                        "previousValue": "Como cuando sale tu canción favorita en la fiesta, así de bien nos sentimos al corregir errores en tu app para que tengas la mejor experiencia con tu dinero.<br><br>Recuerda que puedes solicitar tarjeta de crédito y Cuenta Nu desde tu celular, sin hacer filas en una sucursal. Hazlo en nu.com.co para Colombia y en nu.com.mx para México.<br><br>Escríbenos cualquier duda o comentario desde México a ayuda@nu.com.mx o desde Colombia a ayuda@nu.com.co.",
+                        "currentValue": "Corregir errores parece algo genérico, pero cada una de esas correcciones representa un esfuerzo para mejorar tu experiencia. Eso hicimos esta semana, mejorar tu experiencia.<br><br>Si estás en Colombia, inscríbete a la lista de espera. Puedes hacerlo en nu.com.co. ¡Muchas personas ya tienen su tarjeta!<br><br>Escríbenos cualquier duda o comentario desde México a ayuda@nu.com.mx o desde Colombia a ayuda@nu.com.co.<br>"
+                    }
+                ]
+            },
+            {
+                "_id": "6ba54358-fbeb-56bb-8f69-5cb3e1edadf0",
+                "changes": [
+                    {
+                        "_id": "6723ea4b9167789729169715",
+                        "date": "2024-10-31T20:36:27.623Z",
+                        "field": "recentChanges",
+                        "previousValue": "Corregir errores parece algo genérico, pero cada una de esas correcciones representa un esfuerzo para mejorar tu experiencia. Eso hicimos esta semana, mejorar tu experiencia.<br><br>Si estás en Colombia, inscríbete a la lista de espera. Puedes hacerlo en nu.com.co. ¡Muchas personas ya tienen su tarjeta!<br><br>Escríbenos cualquier duda o comentario desde México a ayuda@nu.com.mx o desde Colombia a ayuda@nu.com.co.<br>",
+                        "currentValue": "Esta semana trabajamos en nuevas mejoras en la app para que nuestros millones de clientes tengan control de sus finanzas<br><br>Recuerda que puedes solicitar tarjeta de crédito y Cuenta Nu desde tu celular, sin hacer filas en una sucursal. Hazlo en nu.com.co para Colombia y en nu.com.mx para México.<br><br>Escríbenos cualquier duda o comentario desde México a ayuda@nu.com.mx o desde Colombia a ayuda@nu.com.co."
+                    },
+                    {
+                        "_id": "671aac5d91677897294842d2",
+                        "date": "2024-10-24T20:21:48.930Z",
+                        "field": "recentChanges",
+                        "previousValue": "Esta semana corregimos errores en la app porque nuestro propósito es que tengas la mejor experiencia con tus finanzas. Además, nuestra atención es 24/7 para ayudarte cuando lo necesites. <br><br>Recuerda que puedes solicitar tarjeta de crédito y Cuenta Nu desde tu celular, sin hacer filas en una sucursal. Hazlo en nu.com.co para Colombia y en nu.com.mx para México.<br><br>Escríbenos cualquier duda o comentario desde México a ayuda@nu.com.mx o desde Colombia a ayuda@nu.com.co.",
+                        "currentValue": "Corregir errores parece algo genérico, pero cada una de esas correcciones representa un esfuerzo para mejorar tu experiencia. Eso hicimos esta semana, mejorar tu experiencia.<br><br>Si estás en Colombia, inscríbete a la lista de espera. Puedes hacerlo en nu.com.co. ¡Muchas personas ya tienen su tarjeta!<br><br>Escríbenos cualquier duda o comentario desde México a ayuda@nu.com.mx o desde Colombia a ayuda@nu.com.co.<br>"
+                    },
+                    {
+                        "_id": "67104af4f8d712010b7dabef",
+                        "date": "2024-10-16T23:23:32.642Z",
+                        "field": "recentChanges",
+                        "previousValue": "Esta semana corregimos errores en la app para que tu experiencia se sienta tan bien como que te inviten a comer en tu restaurante favorito. <br><br>Recuerda que puedes solicitar tarjeta de crédito y Cuenta Nu desde tu celular, sin hacer filas en una sucursal. Hazlo en nu.com.co para Colombia y en nu.com.mx para México.<br><br>Escríbenos cualquier duda o comentario desde México a ayuda@nu.com.mx o desde Colombia a ayuda@nu.com.co.",
+                        "currentValue": "Esta semana corregimos errores en la app porque nuestro propósito es que tengas la mejor experiencia con tus finanzas. Además, nuestra atención es 24/7 para ayudarte cuando lo necesites. <br><br>Recuerda que puedes solicitar tarjeta de crédito y Cuenta Nu desde tu celular, sin hacer filas en una sucursal. Hazlo en nu.com.co para Colombia y en nu.com.mx para México.<br><br>Escríbenos cualquier duda o comentario desde México a ayuda@nu.com.mx o desde Colombia a ayuda@nu.com.co."
+                    },
+                    {
+                        "_id": "67083765f8d712010b478343",
+                        "date": "2024-10-10T20:21:57.385Z",
+                        "field": "recentChanges",
+                        "previousValue": "Corregir errores parece algo genérico, pero cada una de esas correcciones representa un esfuerzo para mejorar tu experiencia. Eso hicimos esta semana, mejorar tu experiencia.<br><br>Si estás en Colombia, inscríbete a la lista de espera. Puedes hacerlo en nu.com.co. ¡Muchas personas ya tienen su tarjeta!<br><br>Escríbenos cualquier duda o comentario desde México a ayuda@nu.com.mx o desde Colombia a ayuda@nu.com.co.<br>",
+                        "currentValue": "Esta semana corregimos errores en la app para que tu experiencia se sienta tan bien como que te inviten a comer en tu restaurante favorito. <br><br>Recuerda que puedes solicitar tarjeta de crédito y Cuenta Nu desde tu celular, sin hacer filas en una sucursal. Hazlo en nu.com.co para Colombia y en nu.com.mx para México.<br><br>Escríbenos cualquier duda o comentario desde México a ayuda@nu.com.mx o desde Colombia a ayuda@nu.com.co."
+                    },
+                    {
+                        "_id": "66fefcbff8d712010b9864c9",
+                        "date": "2024-10-03T20:21:19.129Z",
+                        "field": "recentChanges",
+                        "previousValue": "Como cuando sale tu canción favorita en la fiesta, así de bien nos sentimos al corregir errores en tu app para que tengas la mejor experiencia con tu dinero.<br><br>Recuerda que puedes solicitar tarjeta de crédito y Cuenta Nu desde tu celular, sin hacer filas en una sucursal. Hazlo en nu.com.co para Colombia y en nu.com.mx para México.<br><br>Escríbenos cualquier duda o comentario desde México a ayuda@nu.com.mx o desde Colombia a ayuda@nu.com.co.",
+                        "currentValue": "Corregir errores parece algo genérico, pero cada una de esas correcciones representa un esfuerzo para mejorar tu experiencia. Eso hicimos esta semana, mejorar tu experiencia.<br><br>Si estás en Colombia, inscríbete a la lista de espera. Puedes hacerlo en nu.com.co. ¡Muchas personas ya tienen su tarjeta!<br><br>Escríbenos cualquier duda o comentario desde México a ayuda@nu.com.mx o desde Colombia a ayuda@nu.com.co.<br>"
+                    }
+                ]
+            },
+            {
+                "_id": "23dc3dd0-82f2-5587-9c27-aae031ec7c8d",
+                "changes": [
+                    {
+                        "_id": "6723ea279167789729167d6d",
+                        "date": "2024-10-31T20:35:51.601Z",
+                        "field": "recentChanges",
+                        "previousValue": "Corregir errores parece algo genérico, pero cada una de esas correcciones representa un esfuerzo para mejorar tu experiencia. Eso hicimos esta semana, mejorar tu experiencia.<br><br>Si estás en Colombia, inscríbete a la lista de espera. Puedes hacerlo en nu.com.co. ¡Muchas personas ya tienen su tarjeta!<br><br>Escríbenos cualquier duda o comentario desde México a ayuda@nu.com.mx o desde Colombia a ayuda@nu.com.co.<br>",
+                        "currentValue": "Esta semana trabajamos en nuevas mejoras en la app para que nuestros millones de clientes tengan control de sus finanzas<br><br>Recuerda que puedes solicitar tarjeta de crédito y Cuenta Nu desde tu celular, sin hacer filas en una sucursal. Hazlo en nu.com.co para Colombia y en nu.com.mx para México.<br><br>Escríbenos cualquier duda o comentario desde México a ayuda@nu.com.mx o desde Colombia a ayuda@nu.com.co."
+                    },
+                    {
+                        "_id": "671aac3b9167789729483466",
+                        "date": "2024-10-24T20:21:14.830Z",
+                        "field": "recentChanges",
+                        "previousValue": "Esta semana corregimos errores en la app porque nuestro propósito es que tengas la mejor experiencia con tus finanzas. Además, nuestra atención es 24/7 para ayudarte cuando lo necesites. <br><br>Recuerda que puedes solicitar tarjeta de crédito y Cuenta Nu desde tu celular, sin hacer filas en una sucursal. Hazlo en nu.com.co para Colombia y en nu.com.mx para México.<br><br>Escríbenos cualquier duda o comentario desde México a ayuda@nu.com.mx o desde Colombia a ayuda@nu.com.co.",
+                        "currentValue": "Corregir errores parece algo genérico, pero cada una de esas correcciones representa un esfuerzo para mejorar tu experiencia. Eso hicimos esta semana, mejorar tu experiencia.<br><br>Si estás en Colombia, inscríbete a la lista de espera. Puedes hacerlo en nu.com.co. ¡Muchas personas ya tienen su tarjeta!<br><br>Escríbenos cualquier duda o comentario desde México a ayuda@nu.com.mx o desde Colombia a ayuda@nu.com.co.<br>"
+                    },
+                    {
+                        "_id": "67104ad1f8d712010b7d928c",
+                        "date": "2024-10-16T23:22:56.788Z",
+                        "field": "recentChanges",
+                        "previousValue": "Esta semana corregimos errores en la app para que tu experiencia se sienta tan bien como que te inviten a comer en tu restaurante favorito. <br><br>Recuerda que puedes solicitar tarjeta de crédito y Cuenta Nu desde tu celular, sin hacer filas en una sucursal. Hazlo en nu.com.co para Colombia y en nu.com.mx para México.<br><br>Escríbenos cualquier duda o comentario desde México a ayuda@nu.com.mx o desde Colombia a ayuda@nu.com.co.",
+                        "currentValue": "Esta semana corregimos errores en la app porque nuestro propósito es que tengas la mejor experiencia con tus finanzas. Además, nuestra atención es 24/7 para ayudarte cuando lo necesites. <br><br>Recuerda que puedes solicitar tarjeta de crédito y Cuenta Nu desde tu celular, sin hacer filas en una sucursal. Hazlo en nu.com.co para Colombia y en nu.com.mx para México.<br><br>Escríbenos cualquier duda o comentario desde México a ayuda@nu.com.mx o desde Colombia a ayuda@nu.com.co."
+                    },
+                    {
+                        "_id": "67083742f8d712010b4775ba",
+                        "date": "2024-10-10T20:21:21.812Z",
+                        "field": "recentChanges",
+                        "previousValue": "Corregir errores parece algo genérico, pero cada una de esas correcciones representa un esfuerzo para mejorar tu experiencia. Eso hicimos esta semana, mejorar tu experiencia.<br><br>Si estás en Colombia, inscríbete a la lista de espera. Puedes hacerlo en nu.com.co. ¡Muchas personas ya tienen su tarjeta!<br><br>Escríbenos cualquier duda o comentario desde México a ayuda@nu.com.mx o desde Colombia a ayuda@nu.com.co.<br>",
+                        "currentValue": "Esta semana corregimos errores en la app para que tu experiencia se sienta tan bien como que te inviten a comer en tu restaurante favorito. <br><br>Recuerda que puedes solicitar tarjeta de crédito y Cuenta Nu desde tu celular, sin hacer filas en una sucursal. Hazlo en nu.com.co para Colombia y en nu.com.mx para México.<br><br>Escríbenos cualquier duda o comentario desde México a ayuda@nu.com.mx o desde Colombia a ayuda@nu.com.co."
+                    },
+                    {
+                        "_id": "66fefc9bf8d712010b985670",
+                        "date": "2024-10-03T20:20:42.876Z",
+                        "field": "recentChanges",
+                        "previousValue": "Como cuando sale tu canción favorita en la fiesta, así de bien nos sentimos al corregir errores en tu app para que tengas la mejor experiencia con tu dinero.<br><br>Recuerda que puedes solicitar tarjeta de crédito y Cuenta Nu desde tu celular, sin hacer filas en una sucursal. Hazlo en nu.com.co para Colombia y en nu.com.mx para México.<br><br>Escríbenos cualquier duda o comentario desde México a ayuda@nu.com.mx o desde Colombia a ayuda@nu.com.co.",
+                        "currentValue": "Corregir errores parece algo genérico, pero cada una de esas correcciones representa un esfuerzo para mejorar tu experiencia. Eso hicimos esta semana, mejorar tu experiencia.<br><br>Si estás en Colombia, inscríbete a la lista de espera. Puedes hacerlo en nu.com.co. ¡Muchas personas ya tienen su tarjeta!<br><br>Escríbenos cualquier duda o comentario desde México a ayuda@nu.com.mx o desde Colombia a ayuda@nu.com.co.<br>"
+                    }
+                ]
+            },
+            {
+                "_id": "5924d672-d46d-5ed9-a905-11f5ca617a79",
+                "changes": [
+                    {
+                        "_id": "6723e9d29167789729163a29",
+                        "date": "2024-10-31T20:34:26.277Z",
+                        "field": "recentChanges",
+                        "previousValue": "O roxo ficou mais roxo. O simples ficou mais simples.<br>.<br>Nosso time de engenharia trabalhou essa semana inteirinha para deixar o app que facilita sua vida financeira ainda mais fácil de usar!<br>.<br>Todos os bugs identificados foram corrigidos e ainda fizemos melhorias para que você não precise se preocupar com mais nada.<br>.<br>Explore a home do seu app e confira todas as novidades que chegaram para você ;)<br>.<br>Dúvidas?<br>Mande nas redes sociais: @Nubank.<br>",
+                        "currentValue": "O roxo ficou mais roxo. O simples ficou mais simples.<br><br>Nosso time de engenharia trabalhou essa semana inteirinha para deixar o app que facilita sua vida financeira ainda mais fácil de usar!<br><br>Todos os bugs identificados foram corrigidos e ainda fizemos melhorias para que você não precise se preocupar com mais nada.<br><br>Explore a home do seu app e confira todas as novidades que chegaram para você ;)<br><br>Dúvidas?<br>Mande nas redes sociais: @Nubank."
+                    }
+                ]
+            },
+            {
+                "_id": "2e85efd2-605c-5ab9-ad79-d89306ce2d51",
+                "changes": [
+                    {
+                        "_id": "6723e90c916778972915a892",
+                        "date": "2024-10-31T20:31:08.539Z",
+                        "field": "recentChanges",
+                        "previousValue": "Corregir errores parece algo genérico, pero cada una de esas correcciones representa un esfuerzo para mejorar tu experiencia. Eso hicimos esta semana, mejorar tu experiencia.<br><br>Si estás en Colombia, inscríbete a la lista de espera. Puedes hacerlo en nu.com.co. ¡Muchas personas ya tienen su tarjeta!<br><br>Escríbenos cualquier duda o comentario desde México a ayuda@nu.com.mx o desde Colombia a ayuda@nu.com.co.<br>",
+                        "currentValue": "Esta semana trabajamos en nuevas mejoras en la app para que nuestros millones de clientes tengan control de sus finanzas<br><br>Recuerda que puedes solicitar tarjeta de crédito y Cuenta Nu desde tu celular, sin hacer filas en una sucursal. Hazlo en nu.com.co para Colombia y en nu.com.mx para México.<br><br>Escríbenos cualquier duda o comentario desde México a ayuda@nu.com.mx o desde Colombia a ayuda@nu.com.co."
+                    },
+                    {
+                        "_id": "671aab39916778972947cbff",
+                        "date": "2024-10-24T20:16:57.191Z",
+                        "field": "recentChanges",
+                        "previousValue": "Esta semana corregimos errores en la app porque nuestro propósito es que tengas la mejor experiencia con tus finanzas. Además, nuestra atención es 24/7 para ayudarte cuando lo necesites. <br><br>Recuerda que puedes solicitar tarjeta de crédito y Cuenta Nu desde tu celular, sin hacer filas en una sucursal. Hazlo en nu.com.co para Colombia y en nu.com.mx para México.<br><br>Escríbenos cualquier duda o comentario desde México a ayuda@nu.com.mx o desde Colombia a ayuda@nu.com.co.",
+                        "currentValue": "Corregir errores parece algo genérico, pero cada una de esas correcciones representa un esfuerzo para mejorar tu experiencia. Eso hicimos esta semana, mejorar tu experiencia.<br><br>Si estás en Colombia, inscríbete a la lista de espera. Puedes hacerlo en nu.com.co. ¡Muchas personas ya tienen su tarjeta!<br><br>Escríbenos cualquier duda o comentario desde México a ayuda@nu.com.mx o desde Colombia a ayuda@nu.com.co.<br>"
+                    },
+                    {
+                        "_id": "67104992f8d712010b7cf743",
+                        "date": "2024-10-16T23:17:37.672Z",
+                        "field": "recentChanges",
+                        "previousValue": "Esta semana corregimos errores en la app para que tu experiencia se sienta tan bien como que te inviten a comer en tu restaurante favorito. <br><br>Recuerda que puedes solicitar tarjeta de crédito y Cuenta Nu desde tu celular, sin hacer filas en una sucursal. Hazlo en nu.com.co para Colombia y en nu.com.mx para México.<br><br>Escríbenos cualquier duda o comentario desde México a ayuda@nu.com.mx o desde Colombia a ayuda@nu.com.co.",
+                        "currentValue": "Esta semana corregimos errores en la app porque nuestro propósito es que tengas la mejor experiencia con tus finanzas. Además, nuestra atención es 24/7 para ayudarte cuando lo necesites. <br><br>Recuerda que puedes solicitar tarjeta de crédito y Cuenta Nu desde tu celular, sin hacer filas en una sucursal. Hazlo en nu.com.co para Colombia y en nu.com.mx para México.<br><br>Escríbenos cualquier duda o comentario desde México a ayuda@nu.com.mx o desde Colombia a ayuda@nu.com.co."
+                    },
+                    {
+                        "_id": "67083638f8d712010b4707c5",
+                        "date": "2024-10-10T20:16:55.911Z",
+                        "field": "recentChanges",
+                        "previousValue": "Corregir errores parece algo genérico, pero cada una de esas correcciones representa un esfuerzo para mejorar tu experiencia. Eso hicimos esta semana, mejorar tu experiencia.<br><br>Si estás en Colombia, inscríbete a la lista de espera. Puedes hacerlo en nu.com.co. ¡Muchas personas ya tienen su tarjeta!<br><br>Escríbenos cualquier duda o comentario desde México a ayuda@nu.com.mx o desde Colombia a ayuda@nu.com.co.<br>",
+                        "currentValue": "Esta semana corregimos errores en la app para que tu experiencia se sienta tan bien como que te inviten a comer en tu restaurante favorito. <br><br>Recuerda que puedes solicitar tarjeta de crédito y Cuenta Nu desde tu celular, sin hacer filas en una sucursal. Hazlo en nu.com.co para Colombia y en nu.com.mx para México.<br><br>Escríbenos cualquier duda o comentario desde México a ayuda@nu.com.mx o desde Colombia a ayuda@nu.com.co."
+                    },
+                    {
+                        "_id": "66fefbb0f8d712010b97f0cd",
+                        "date": "2024-10-03T20:16:48.652Z",
+                        "field": "recentChanges",
+                        "previousValue": "Como cuando sale tu canción favorita en la fiesta, así de bien nos sentimos al corregir errores en tu app para que tengas la mejor experiencia con tu dinero.<br><br>Recuerda que puedes solicitar tarjeta de crédito y Cuenta Nu desde tu celular, sin hacer filas en una sucursal. Hazlo en nu.com.co para Colombia y en nu.com.mx para México.<br><br>Escríbenos cualquier duda o comentario desde México a ayuda@nu.com.mx o desde Colombia a ayuda@nu.com.co.",
+                        "currentValue": "Corregir errores parece algo genérico, pero cada una de esas correcciones representa un esfuerzo para mejorar tu experiencia. Eso hicimos esta semana, mejorar tu experiencia.<br><br>Si estás en Colombia, inscríbete a la lista de espera. Puedes hacerlo en nu.com.co. ¡Muchas personas ya tienen su tarjeta!<br><br>Escríbenos cualquier duda o comentario desde México a ayuda@nu.com.mx o desde Colombia a ayuda@nu.com.co.<br>"
+                    }
+                ]
+            }
+        ],
+        "metadata": {
+            "creditsConsumed": 0,
+            "datePerformed": "2024-11-01T17:52:34.768Z",
+            "headers": {
+                "connection": "keep-alive",
+                "cf-ray": "8dbdbd2dfcf1625d-GRU",
+                "user-agent": "Python/3.12 aiohttp/3.10.10",
+                "accept-encoding": "gzip, br",
+                "cf-ipcountry": "BR",
+                "cdn-loop": "cloudflare; loops=1",
+                "accept": "*/*",
+                "cf-visitor": "{\"scheme\":\"https\"}",
+                "cf-connecting-ip": "186.236.101.231"
+            },
+            "params": {
+                "appId": "com.nu.production",
+                "store": "google"
+            },
+            "query": {
+                "store": "google",
+                "startDate": "2024-10-01",
+                "endDate": "2024-10-31"
+            },
+            "path": "/v1/apps/com.nu.production/google/changes-log",
+            "method": "GET",
+            "requisitionId": "b8dcab8d-75b6-4c1d-924b-22ad7101f074",
+            "responseTime": 3844.271929
+        }
+    },
+    "br.com.neon": {
+        "content": [
+            {
+                "_id": "17729962-7a5a-53a7-bb51-ad5d01db58ed",
+                "changes": [
+                    {
+                        "_id": "67185c889167789729447c24",
+                        "date": "2024-10-23T02:16:40.135Z",
+                        "field": "recentChanges",
+                        "previousValue": "Chegou uma nova versão do app Neon!<br>Queremos ser a fintech do trabalhador brasileiro e atualizando o app para essa nova versão 5.10.0, você vai conferir que estamos trabalhando para isso.<br>Fizemos algumas correções e outras melhorias na jornada para tornar a sua experiência com a Neon a melhor possível.<br>Fique atento e deixe o seu app sempre atualizado para ter o melhor da Neon.<br>Em breve voltamos com mais novidades para você!",
+                        "currentValue": "Chegou uma nova versão do app Neon!<br>Queremos ser a fintech do trabalhador brasileiro e atualizando o app para essa nova versão 5.11.0, você vai conferir que estamos trabalhando para isso.<br>Fizemos algumas correções e outras melhorias na jornada para tornar a sua experiência com a Neon a melhor possível.<br>Fique atento e deixe o seu app sempre atualizado para ter o melhor da Neon.<br>Em breve voltamos com mais novidades para você!"
+                    },
+                    {
+                        "_id": "67185c889167789729447c1f",
+                        "date": "2024-10-23T02:16:39.926Z",
+                        "field": "version",
+                        "previousValue": "5.10.1",
+                        "currentValue": "5.11.1"
+                    },
+                    {
+                        "_id": "670d51ecf8d712010b56c5b8",
+                        "date": "2024-10-14T17:16:27.783Z",
+                        "field": "version",
+                        "previousValue": "5.10.0",
+                        "currentValue": "5.10.1"
+                    },
+                    {
+                        "_id": "67059327f8d712010b3611d9",
+                        "date": "2024-10-08T20:16:39.495Z",
+                        "field": "recentChanges",
+                        "previousValue": "Chegou uma nova versão do app Neon!<br>Queremos ser a fintech do trabalhador brasileiro e atualizando o app para essa nova versão 5.9.0, você vai conferir que estamos trabalhando para isso.<br>Fizemos algumas correções e outras melhorias na jornada para tornar a sua experiência com a Neon a melhor possível.<br>Fique atento e deixe o seu app sempre atualizado para ter o melhor da Neon.<br>Em breve voltamos com mais novidades para você!",
+                        "currentValue": "Chegou uma nova versão do app Neon!<br>Queremos ser a fintech do trabalhador brasileiro e atualizando o app para essa nova versão 5.10.0, você vai conferir que estamos trabalhando para isso.<br>Fizemos algumas correções e outras melhorias na jornada para tornar a sua experiência com a Neon a melhor possível.<br>Fique atento e deixe o seu app sempre atualizado para ter o melhor da Neon.<br>Em breve voltamos com mais novidades para você!"
+                    },
+                    {
+                        "_id": "67059327f8d712010b3611d2",
+                        "date": "2024-10-08T20:16:39.190Z",
+                        "field": "version",
+                        "previousValue": "5.9.1",
+                        "currentValue": "5.10.0"
+                    }
+                ]
+            },
+            {
+                "_id": "8e106529-6d07-55e0-a1d1-6d830846fa7b",
+                "changes": [
+                    {
+                        "_id": "67185c5f916778972944687b",
+                        "date": "2024-10-23T02:15:59.116Z",
+                        "field": "recentChanges",
+                        "previousValue": "Chegou uma nova versão do app Neon!<br>Queremos ser a fintech do trabalhador brasileiro e atualizando o app para essa nova versão 5.10.0, você vai conferir que estamos trabalhando para isso.<br>Fizemos algumas correções e outras melhorias na jornada para tornar a sua experiência com a Neon a melhor possível.<br>Fique atento e deixe o seu app sempre atualizado para ter o melhor da Neon.<br>Em breve voltamos com mais novidades para você!",
+                        "currentValue": "Chegou uma nova versão do app Neon!<br>Queremos ser a fintech do trabalhador brasileiro e atualizando o app para essa nova versão 5.11.0, você vai conferir que estamos trabalhando para isso.<br>Fizemos algumas correções e outras melhorias na jornada para tornar a sua experiência com a Neon a melhor possível.<br>Fique atento e deixe o seu app sempre atualizado para ter o melhor da Neon.<br>Em breve voltamos com mais novidades para você!"
+                    },
+                    {
+                        "_id": "67185c5f9167789729446873",
+                        "date": "2024-10-23T02:15:58.964Z",
+                        "field": "version",
+                        "previousValue": "5.10.1",
+                        "currentValue": "5.11.1"
+                    },
+                    {
+                        "_id": "670d51c7f8d712010b56b240",
+                        "date": "2024-10-14T17:15:51.773Z",
+                        "field": "version",
+                        "previousValue": "5.10.0",
+                        "currentValue": "5.10.1"
+                    },
+                    {
+                        "_id": "670592faf8d712010b360177",
+                        "date": "2024-10-08T20:15:54.530Z",
+                        "field": "recentChanges",
+                        "previousValue": "Chegou uma nova versão do app Neon!<br>Queremos ser a fintech do trabalhador brasileiro e atualizando o app para essa nova versão 5.9.0, você vai conferir que estamos trabalhando para isso.<br>Fizemos algumas correções e outras melhorias na jornada para tornar a sua experiência com a Neon a melhor possível.<br>Fique atento e deixe o seu app sempre atualizado para ter o melhor da Neon.<br>Em breve voltamos com mais novidades para você!",
+                        "currentValue": "Chegou uma nova versão do app Neon!<br>Queremos ser a fintech do trabalhador brasileiro e atualizando o app para essa nova versão 5.10.0, você vai conferir que estamos trabalhando para isso.<br>Fizemos algumas correções e outras melhorias na jornada para tornar a sua experiência com a Neon a melhor possível.<br>Fique atento e deixe o seu app sempre atualizado para ter o melhor da Neon.<br>Em breve voltamos com mais novidades para você!"
+                    },
+                    {
+                        "_id": "670592faf8d712010b36016e",
+                        "date": "2024-10-08T20:15:54.368Z",
+                        "field": "version",
+                        "previousValue": "5.9.1",
+                        "currentValue": "5.10.0"
+                    }
+                ]
+            }
+        ],
+        "metadata": {
+            "creditsConsumed": 0,
+            "datePerformed": "2024-11-01T17:52:33.279Z",
+            "headers": {
+                "connection": "keep-alive",
+                "cf-ray": "8dbdbd2deba701d6-GRU",
+                "user-agent": "Python/3.12 aiohttp/3.10.10",
+                "accept-encoding": "gzip, br",
+                "cf-ipcountry": "BR",
+                "cdn-loop": "cloudflare; loops=1",
+                "accept": "*/*",
+                "cf-visitor": "{\"scheme\":\"https\"}",
+                "cf-connecting-ip": "186.236.101.231"
+            },
+            "params": {
+                "appId": "br.com.neon",
+                "store": "google"
+            },
+            "query": {
+                "store": "google",
+                "startDate": "2024-10-01",
+                "endDate": "2024-10-31"
+            },
+            "path": "/v1/apps/br.com.neon/google/changes-log",
+            "method": "GET",
+            "requisitionId": "76dc8bd2-270a-462f-9773-d6cab8f572d8",
+            "responseTime": 2360.047021
+        }
+    },
+    "br.com.bb.android": {
+        "content": [
+            {
+                "_id": "373243a9-5c9d-57a0-aa1c-cb78789e1985",
+                "changes": [
+                    {
+                        "_id": "671ff15191677897296ad3ae",
+                        "date": "2024-10-28T20:17:21.098Z",
+                        "field": "version",
+                        "previousValue": "9.38.1.0",
+                        "currentValue": "9.39.0.3"
+                    },
+                    {
+                        "_id": "6718085891677897292e64fb",
+                        "date": "2024-10-22T20:17:28.306Z",
+                        "field": "version",
+                        "previousValue": "9.37.0.6",
+                        "currentValue": "9.38.1.0"
+                    },
+                    {
+                        "_id": "670ff52ef8d712010b6442f3",
+                        "date": "2024-10-16T17:17:34.669Z",
+                        "field": "descriptionHTML",
+                        "previousValue": "😀 Quer abrir uma conta digital grátis e acessar pelo seu celular serviços como Pix instantâneo, Pix parcelado, pagamentos e investimentos? Baixe o aplicativo do Banco do Brasil e tenha todas as vantagens e facilidades na sua conta, onde e quando precisar.<br><br>🎁 :: Shopping BB ::<br>Gift cards, cupons, recarga de celular, cashback, área gamer, tudo em um só lugar. Basta ser correntista e usuário do aplicativo do Banco do Brasil&lt;&lt;&lt;&lt; para ter acesso.<br><br>🤑 :: Você no controle do seu dinheiro ::<br>Com o Minhas Finanças Multibanco você planeja, controla e organiza suas finanças de maneira simples, em um só lugar e sem pagar nada por isso.<br><br>💲 :: Acesso completo a serviços financeiros ::<br>Baixe o app do Banco do Brasil e aproveite as facilidades do Pix instantâneo, Pix parcelado, pagamentos e investimentos.<br><br>Aqui você gerencia suas contas e cartões de outros bancos, organiza seus compromissos, lançamentos, saldos e hábitos de consumo e ainda define metas para controlar seu orçamento.<br><br>💛 💙 O que você pode fazer no app do Banco do Brasil:<br>• Conta digital: abrir sua conta digital grátis em poucos cliques<br>• Saldos e Extratos: consultar seus saldos e extratos na conta corrente, poupança, salário e empresarial<br>• Transferências e Pix: cadastrar suas chaves Pix e fazer transferências e pagamentos para seus contatos<br>• Pagamentos: fazer pagamentos de boletos, QR Code, Pix instantâneo, Pix parcelado, impostos e organizar dívidas<br>• Cartão de Crédito: pedir seu cartão de crédito, inclusive o cartão virtual, e acompanhar suas compras e faturas<br>• Empréstimos: contratar crédito pessoal, consignado, fazer financiamentos de imóveis e de automóveis<br>• Organizar as finanças: centralizar suas contas e cartões de outras instituições financeiras e administrar todo seu orçamento, controlar hábitos de consumo e economizar com o Minhas Finanças<br>• Investimentos: aqui você faz investimentos em fundos, CDB, LCI, LCA, investimentos em Tesouro Direto e ainda conta com assessoria para seus investimentos. <br>• Seguros e serviços: contratar seguros, consórcios, previdência e mais<br>• Atendimento digital: falar com seu gerente via chat, mudar senhas e pedir atendimento pelo celular<br>• Open Finance: liberdade para acessar seus dados financeiros para ter melhores soluções e ofertas exclusivas no Banco do Brasil<br>• Shopping BB: Gift cards, cupons, recarga de celular, cashback e área gamer<br><br>Baixe o App BB e tenha acesso a Pix instantâneo, Pix parcelado, pagamentos, investimentos, cashback no Shopping <br>BB e muitas outras soluções para facilitar o seu dia a dia.<br><br>😊 Precisa de Ajuda?<br>Mande uma mensagem para o nosso WhatsApp: 61 4004 0001.<br>• Mais informações no site: https://www.bb.com.br/atendimento<br><br>Central de Relacionamento:<br>4004-0001 (capitais e regiões metropolitanas)<br>0800-729-0001 (demais cidades)<br><br>Banco do Brasil S/A - CNPJ 00.000.000/0001-91<br>SAUN QD 5 LT B, Asa Norte, Brasília-DF, Brasil - CEP 70040-911<br>_<br>O aplicativo do Banco do Brasil é compatível com versões do Android 8.1 ou superior.",
+                        "currentValue": "😀 Quer abrir uma conta digital grátis e acessar pelo seu celular serviços como Pix instantâneo, Pix parcelado, pagamentos, compras com cashback e investimentos? Baixe o aplicativo do Banco do Brasil e tenha todas as vantagens e facilidades na sua conta, onde e quando precisar.<br><br>🎁 :: Shopping BB ::<br>Gift cards, cupons, recarga de celular, área gamer, tudo em um só lugar, além de cashback pra tudo que você imaginar. Tem cashback em produtos para sua casa, cashback em consoles e equipamentos para games, cashback em celulares, cashback em presentes, cashback em roupas e acessórios, cashback em remédios e cashback até em viagens. Basta ser correntista e usuário do aplicativo do Banco do Brasil&lt;&lt;&lt;&lt; para ter acesso.<br><br>🤑 :: Você no controle do seu dinheiro ::<br>Com o Minhas Finanças Multibanco você planeja, controla e organiza suas finanças de maneira simples, em um só lugar e sem pagar nada por isso.<br><br>💲 :: Acesso completo a serviços financeiros ::<br>Baixe o app do Banco do Brasil e aproveite as facilidades do Pix instantâneo, Pix parcelado, pagamentos e investimentos.<br><br>Aqui você gerencia suas contas e cartões de outros bancos, organiza seus compromissos, lançamentos, saldos e hábitos de consumo e ainda define metas para controlar seu orçamento.<br><br>💛 💙 O que você pode fazer no app do Banco do Brasil:<br>• Conta digital: abrir sua conta digital grátis em poucos cliques<br>• Saldos e Extratos: consultar seus saldos e extratos na conta corrente, poupança, salário e empresarial<br>• Transferências e Pix: cadastrar suas chaves Pix e fazer transferências e pagamentos para seus contatos<br>• Pagamentos: fazer pagamentos de boletos, QR Code, Pix instantâneo, Pix parcelado, impostos e organizar dívidas<br>• Cartão de Crédito: pedir seu cartão de crédito, inclusive o cartão virtual, e acompanhar suas compras e faturas<br>• Empréstimos: contratar crédito pessoal, consignado, fazer financiamentos de imóveis e de automóveis<br>• Organizar as finanças: centralizar suas contas e cartões de outras instituições financeiras e administrar todo seu orçamento, controlar hábitos de consumo e economizar com o Minhas Finanças<br>• Investimentos: aqui você faz investimentos em fundos, CDB, LCI, LCA, investimentos em Tesouro Direto e ainda conta com assessoria para seus investimentos. <br>• Seguros e serviços: contratar seguros, consórcios, previdência e mais<br>• Atendimento digital: falar com seu gerente via chat, mudar senhas e pedir atendimento pelo celular<br>• Open Finance: liberdade para acessar seus dados financeiros para ter melhores soluções e ofertas exclusivas no Banco do Brasil<br>• Shopping BB: Gift cards, cupons, recarga de celular, cashback e área gamer<br><br>Baixe o App BB e tenha acesso a Pix instantâneo, Pix parcelado, pagamentos, investimentos, cashback no Shopping <br>BB e muitas outras soluções para facilitar o seu dia a dia.<br><br>😊 Precisa de Ajuda?<br>Mande uma mensagem para o nosso WhatsApp: 61 4004 0001.<br>• Mais informações no site: https://www.bb.com.br/atendimento<br><br>Central de Relacionamento:<br>4004-0001 (capitais e regiões metropolitanas)<br>0800-729-0001 (demais cidades)<br><br>Banco do Brasil S/A - CNPJ 00.000.000/0001-91<br>SAUN QD 5 LT B, Asa Norte, Brasília-DF, Brasil - CEP 70040-911<br>_<br>O aplicativo do Banco do Brasil é compatível com versões do Android 8.1 ou superior."
+                    },
+                    {
+                        "_id": "670ff52ef8d712010b6442ee",
+                        "date": "2024-10-16T17:17:34.382Z",
+                        "field": "description",
+                        "previousValue": "😀 Quer abrir uma conta digital grátis e acessar pelo seu celular serviços como Pix instantâneo, Pix parcelado, pagamentos e investimentos? Baixe o aplicativo do Banco do Brasil e tenha todas as vantagens e facilidades na sua conta, onde e quando precisar.\n\n🎁 :: Shopping BB ::\nGift cards, cupons, recarga de celular, cashback, área gamer, tudo em um só lugar. Basta ser correntista e usuário do aplicativo do Banco do Brasil<<<< para ter acesso.\n\n🤑 :: Você no controle do seu dinheiro ::\nCom o Minhas Finanças Multibanco você planeja, controla e organiza suas finanças de maneira simples, em um só lugar e sem pagar nada por isso.\n\n💲 :: Acesso completo a serviços financeiros ::\nBaixe o app do Banco do Brasil e aproveite as facilidades do Pix instantâneo, Pix parcelado, pagamentos e investimentos.\n\nAqui você gerencia suas contas e cartões de outros bancos, organiza seus compromissos, lançamentos, saldos e hábitos de consumo e ainda define metas para controlar seu orçamento.\n\n💛 💙 O que você pode fazer no app do Banco do Brasil:\n• Conta digital: abrir sua conta digital grátis em poucos cliques\n• Saldos e Extratos: consultar seus saldos e extratos na conta corrente, poupança, salário e empresarial\n• Transferências e Pix: cadastrar suas chaves Pix e fazer transferências e pagamentos para seus contatos\n• Pagamentos: fazer pagamentos de boletos, QR Code, Pix instantâneo, Pix parcelado, impostos e organizar dívidas\n• Cartão de Crédito: pedir seu cartão de crédito, inclusive o cartão virtual, e acompanhar suas compras e faturas\n• Empréstimos: contratar crédito pessoal, consignado, fazer financiamentos de imóveis e de automóveis\n• Organizar as finanças: centralizar suas contas e cartões de outras instituições financeiras e administrar todo seu orçamento, controlar hábitos de consumo e economizar com o Minhas Finanças\n• Investimentos: aqui você faz investimentos em fundos, CDB, LCI, LCA, investimentos em Tesouro Direto e ainda conta com assessoria para seus investimentos. \n• Seguros e serviços: contratar seguros, consórcios, previdência e mais\n• Atendimento digital: falar com seu gerente via chat, mudar senhas e pedir atendimento pelo celular\n• Open Finance: liberdade para acessar seus dados financeiros para ter melhores soluções e ofertas exclusivas no Banco do Brasil\n• Shopping BB: Gift cards, cupons, recarga de celular, cashback e área gamer\n\nBaixe o App BB e tenha acesso a Pix instantâneo, Pix parcelado, pagamentos, investimentos, cashback no Shopping \nBB e muitas outras soluções para facilitar o seu dia a dia.\n\n😊 Precisa de Ajuda?\nMande uma mensagem para o nosso WhatsApp: 61 4004 0001.\n• Mais informações no site: https://www.bb.com.br/atendimento\n\nCentral de Relacionamento:\n4004-0001 (capitais e regiões metropolitanas)\n0800-729-0001 (demais cidades)\n\nBanco do Brasil S/A - CNPJ 00.000.000/0001-91\nSAUN QD 5 LT B, Asa Norte, Brasília-DF, Brasil - CEP 70040-911\n_\nO aplicativo do Banco do Brasil é compatível com versões do Android 8.1 ou superior.",
+                        "currentValue": "😀 Quer abrir uma conta digital grátis e acessar pelo seu celular serviços como Pix instantâneo, Pix parcelado, pagamentos, compras com cashback e investimentos? Baixe o aplicativo do Banco do Brasil e tenha todas as vantagens e facilidades na sua conta, onde e quando precisar.\n\n🎁 :: Shopping BB ::\nGift cards, cupons, recarga de celular, área gamer, tudo em um só lugar, além de cashback pra tudo que você imaginar. Tem cashback em produtos para sua casa, cashback em consoles e equipamentos para games, cashback em celulares, cashback em presentes, cashback em roupas e acessórios, cashback em remédios e cashback até em viagens. Basta ser correntista e usuário do aplicativo do Banco do Brasil<<<< para ter acesso.\n\n🤑 :: Você no controle do seu dinheiro ::\nCom o Minhas Finanças Multibanco você planeja, controla e organiza suas finanças de maneira simples, em um só lugar e sem pagar nada por isso.\n\n💲 :: Acesso completo a serviços financeiros ::\nBaixe o app do Banco do Brasil e aproveite as facilidades do Pix instantâneo, Pix parcelado, pagamentos e investimentos.\n\nAqui você gerencia suas contas e cartões de outros bancos, organiza seus compromissos, lançamentos, saldos e hábitos de consumo e ainda define metas para controlar seu orçamento.\n\n💛 💙 O que você pode fazer no app do Banco do Brasil:\n• Conta digital: abrir sua conta digital grátis em poucos cliques\n• Saldos e Extratos: consultar seus saldos e extratos na conta corrente, poupança, salário e empresarial\n• Transferências e Pix: cadastrar suas chaves Pix e fazer transferências e pagamentos para seus contatos\n• Pagamentos: fazer pagamentos de boletos, QR Code, Pix instantâneo, Pix parcelado, impostos e organizar dívidas\n• Cartão de Crédito: pedir seu cartão de crédito, inclusive o cartão virtual, e acompanhar suas compras e faturas\n• Empréstimos: contratar crédito pessoal, consignado, fazer financiamentos de imóveis e de automóveis\n• Organizar as finanças: centralizar suas contas e cartões de outras instituições financeiras e administrar todo seu orçamento, controlar hábitos de consumo e economizar com o Minhas Finanças\n• Investimentos: aqui você faz investimentos em fundos, CDB, LCI, LCA, investimentos em Tesouro Direto e ainda conta com assessoria para seus investimentos. \n• Seguros e serviços: contratar seguros, consórcios, previdência e mais\n• Atendimento digital: falar com seu gerente via chat, mudar senhas e pedir atendimento pelo celular\n• Open Finance: liberdade para acessar seus dados financeiros para ter melhores soluções e ofertas exclusivas no Banco do Brasil\n• Shopping BB: Gift cards, cupons, recarga de celular, cashback e área gamer\n\nBaixe o App BB e tenha acesso a Pix instantâneo, Pix parcelado, pagamentos, investimentos, cashback no Shopping \nBB e muitas outras soluções para facilitar o seu dia a dia.\n\n😊 Precisa de Ajuda?\nMande uma mensagem para o nosso WhatsApp: 61 4004 0001.\n• Mais informações no site: https://www.bb.com.br/atendimento\n\nCentral de Relacionamento:\n4004-0001 (capitais e regiões metropolitanas)\n0800-729-0001 (demais cidades)\n\nBanco do Brasil S/A - CNPJ 00.000.000/0001-91\nSAUN QD 5 LT B, Asa Norte, Brasília-DF, Brasil - CEP 70040-911\n_\nO aplicativo do Banco do Brasil é compatível com versões do Android 8.1 ou superior."
+                    },
+                    {
+                        "_id": "670ecdd8f8d712010bdc2901",
+                        "date": "2024-10-15T20:17:28.297Z",
+                        "field": "version",
+                        "previousValue": "9.36.1.0",
+                        "currentValue": "9.37.0.6"
+                    },
+                    {
+                        "_id": "6706e4ccf8d712010bb6c39a",
+                        "date": "2024-10-09T20:17:16.230Z",
+                        "field": "version",
+                        "previousValue": "9.35.0.4",
+                        "currentValue": "9.36.1.0"
+                    },
+                    {
+                        "_id": "66fea770f8d712010b6d85a9",
+                        "date": "2024-10-03T14:17:19.914Z",
+                        "field": "version",
+                        "previousValue": "9.34.0.3",
+                        "currentValue": "9.35.0.4"
+                    }
+                ]
+            }
+        ],
+        "metadata": {
+            "creditsConsumed": 0,
+            "datePerformed": "2024-11-01T17:52:32.444Z",
+            "headers": {
+                "connection": "keep-alive",
+                "cf-ray": "8dbdbd2e0ecfa44e-GRU",
+                "user-agent": "Python/3.12 aiohttp/3.10.10",
+                "accept-encoding": "gzip, br",
+                "cf-ipcountry": "BR",
+                "cdn-loop": "cloudflare; loops=1",
+                "accept": "*/*",
+                "cf-visitor": "{\"scheme\":\"https\"}",
+                "cf-connecting-ip": "186.236.101.231"
+            },
+            "params": {
+                "appId": "br.com.bb.android",
+                "store": "google"
+            },
+            "query": {
+                "store": "google",
+                "startDate": "2024-10-01",
+                "endDate": "2024-10-31"
+            },
+            "path": "/v1/apps/br.com.bb.android/google/changes-log",
+            "method": "GET",
+            "requisitionId": "0a342bd1-de4c-419b-9acf-1c1f6b9cc7bf",
+            "responseTime": 1531.340294
+        }
+    }
+}

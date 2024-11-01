@@ -252,6 +252,7 @@ async def main():
         "com.bb.bbapp",
         "com.nu.iphone"
     ]
+    
     apps_google = [
         "com.itau",
         "com.bradesco",
@@ -259,26 +260,22 @@ async def main():
         "br.com.neon",
         "br.com.bb.android"
     ]
+    
+    # Datas de consulta
+    start_date = "2024-10-01"
+    end_date = "2024-10-31"
 
-    # Intervalo de datas para consulta
-    start_date = "2024-09-01"
-    end_date = "2024-09-30"
-
-    # Inicializar a API e o consultor
+    # Inicializar a API e consultores
     rank_api = RankAPI(RANKAPI_TOKEN)
     consultant = AppConsultant(rank_api)
 
-    # Consultar aplicativos de forma assíncrona
-    apple_results = await consultant.consult_apps(
-        apps_apple, "apple", start_date, end_date
-    )
-    google_results = await consultant.consult_apps(
-        apps_google, "google", start_date, end_date
-    )
+    # Consultar apps na Apple Store
+    results_apple = await consultant.consult_apps(apps_apple, "apple", start_date, end_date)
+    save_results(results_apple, "changeslog_apple_results.json")
 
-    # Salvar resultados em arquivos JSON
-    save_results(apple_results, "changeslog_apple_results.json")
-    save_results(google_results, "changeslog_google_results.json")
+    # Consultar apps na Google Play Store
+    results_google = await consultant.consult_apps(apps_google, "google", start_date, end_date)
+    save_results(results_google, "changeslog_google_results.json")
 
 if __name__ == "__main__":
     asyncio.run(main())
