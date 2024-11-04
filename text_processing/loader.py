@@ -1,16 +1,3 @@
-# import os
-# import json
-
-# # Definir o caminho para o arquivo
-# file_path = os.path.join('data', 'stores.json')
-
-# # Carregar o arquivo JSON
-# with open(file_path, 'r', encoding='utf-8') as f:
-#     apps_data = json.load(f)
-
-# # Exibir os dados carregados
-# apps_data
-
 import os
 import json
 import logging
@@ -18,8 +5,9 @@ import logging
 # Configuração do log
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-# Definir o caminho para o arquivo
-file_path = os.path.join('data', 'stores.json')
+# Definir o caminho para o arquivo com base no diretório atual do script
+current_dir = os.path.dirname(os.path.abspath(__file__))  # Obtém o diretório do script
+file_path = os.path.join(current_dir, '..', 'data', 'stores.json')  # Caminho para o arquivo JSON
 
 # Verificar se o arquivo existe
 if os.path.exists(file_path):
@@ -37,4 +25,5 @@ except Exception as e:
 else:
     # Exibir os dados carregados
     logging.info(f"Dados carregados: {apps_data}")
-    print(apps_data)
+    #print(apps_data)
+
